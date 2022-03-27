@@ -1,8 +1,7 @@
 # telegram-support-bot
 Easy way to use Telegram bot to hide your identity. Useful for support, anonymous channel management. Free clone of Livegram Bot. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
-template=https://github.com/v1zKO/telegram-support-bot-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/v1zKO/telegram-support-bot-1)
 
 ## How bot works:
 
