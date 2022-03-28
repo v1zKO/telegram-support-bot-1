@@ -17,7 +17,7 @@ if TELEGRAM_SUPPORT_CHAT_ID is None or not str(TELEGRAM_SUPPORT_CHAT_ID).lstrip(
 TELEGRAM_SUPPORT_CHAT_ID = int(TELEGRAM_SUPPORT_CHAT_ID)
 
 
-WELCOME_MESSAGE = os.getenv("WELCOME_MESSAGE", """"ENVIE AQUI o seu secretinho para ser postado no canal @secretinho. Para enviar, clique na opção abaixo de anexo ou câmera. 
+WELCOME_MESSAGE = os.getenv("WELCOME_MESSAGE", """ENVIE AQUI o seu secretinho para ser postado no canal @secretinho. Para enviar, clique na opção abaixo de anexo ou câmera. 
 
 ANONIMATO GARANTIDO ✅
 
