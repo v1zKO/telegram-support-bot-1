@@ -11,7 +11,10 @@ def start(update, context):
 
     context.bot.send_message(
         chat_id=TELEGRAM_SUPPORT_CHAT_ID,
-        pass
+        text=f"""
+📞 Connected {user_info}.
+        """,
+    )
     )
 
 
